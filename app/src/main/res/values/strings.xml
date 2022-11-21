@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EmpowermentLabs</string>
+    <string name="api_key">4f512a30c3ce43238ca4316399da7809</string>
+    <string name="action_favorites">Ver favoritos</string>
+    <string name="favorites_not_found">No hay recetas guardadas como favoritas.</string>
+    <string name="connection_not_available">Parece que no tienes internet, verifica tu conexión.</string>
+    <string name="ready_in_minutes">Tiempo de preparación: %1$d min.</string>
+</resources>
